@@ -1,0 +1,27 @@
+color-link default "#c0caf5,#1a1b26"
+color-link comment "#414868"
+color-link identifier "#c0caf5"
+color-link statement "#7aa2f7"
+color-link type "#7dcfff"
+color-link symbol "#c0caf5"
+color-link preproc "#bb9af7"
+color-link constant "#ff9e64"
+color-link string "#9ece6a"
+color-link number "#e0af68"
+color-link special "#bb9af7"
+color-link underlined "#7aa2f7"
+color-link error "#f7768e"
+color-link todo "#e0af68"
+
+# UI
+color-link statusline "#1a1b26,#7aa2f7"
+color-link line-number "#414868"
+color-link current-line-number "#7aa2f7"
+color-link cursor-line "#24283b"
+color-link color-column "#24283b"
+color-link selection "#3d59a1,#c0caf5"
+
+# Match accents
+color-link diff-added "#9ece6a"
+color-link diff-modified "#7aa2f7"
+color-link diff-deleted "#f7768e"
