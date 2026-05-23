@@ -1,7 +1,7 @@
-# (Wall-palette)[d6xd.github.io/wall-palette]
+# [Wall-palette](https://d6xd.github.io/wall-palette/)
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-[![Last Commit](https://img.shields.io/github//d6xd/theme-synced-setup)]()
+[![Last Commit](https://img.shields.io/github/last-commit/yourusername/theme-synced-setup)]()
 [![Repo Size](https://img.shields.io/github/repo-size/yourusername/theme-synced-setup)]()
 
 >Collection of wallpapers, configs, and other synced to popular colors chemes like Catppuccin, Gruvbox, Tokyo Night and more.
